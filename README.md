@@ -1,9 +1,9 @@
-# 스프링부트 블로그 만들기
+# 스프링부트 블로그 연습하기
 
 ## 기술스택
 
-- Springboot 2.7
-- JDK 11
+- Springboot 3.2
+- JDK 21
 - VSCODE
 - MySQL8.0
 
